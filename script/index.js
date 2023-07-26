@@ -77,3 +77,4 @@ let filter = (data) => {
 let home = () => {
     window.location.href = 'index.html'
 }
+
